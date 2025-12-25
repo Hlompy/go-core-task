@@ -5,6 +5,7 @@
 
 ## Структура проекта
 
+```
 go-core-task/
 ├── 1/
 │ ├── main_1.go
@@ -34,7 +35,7 @@ go-core-task/
 │ ├── main_9.go
 │ └── main9_test.go
 └── README.md
-
+```
 
 ---
 
